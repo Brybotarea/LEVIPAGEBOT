@@ -1,15 +1,15 @@
 {
-  "PAGE_ACCESS_TOKEN": "",
+  "PAGE_ACCESS_TOKEN": "EAAdHkqTF9e4BOZCaZA1RuvuwYwZBDaqoR42AxzkpuITqI7BMZCEkhBatnktocUAKyH2ELJAmY0RoZAdZBQNXKUoE7mtdl4PA5UFyeteDVbvMHfJFoyZCxB0It6CjLTeMGM1UqQPN95I7cQcfMJF0qgbnNOD2QTcJg1laKsD1xP9sLYSAIdkcembh1hmxvhdZCNE5ywZDZD",
   "VERIFY_TOKEN": "WEBHOOK",
   "ADMINS": [
-    ""
+    "100077747912224"
   ],
-  "BOTNAME": "BOTNAME",
-  "PREFIX": "/",
+  "BOTNAME": "LEVI",
+  "PREFIX": "",
   "THEME_SETUP": {
     "THEME": "Fiery",
-    "ADMIN": "Your Name",
-    "TITLE": "PAGEBOT",
+    "ADMIN": "BRY",
+    "TITLE": "LEVIPAGEBOT",
     "HTML": [
       "#CE2F16",
       "#fe8916",
