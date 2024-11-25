@@ -1,5 +1,5 @@
-const axios = require("axios");
-const name = "ai" ;
+const fs = require ("fs");
+const path = "ai" ;
 
 module.exports.config = {
   name:"ai" ;
