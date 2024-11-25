@@ -2,7 +2,7 @@ const fs = require ("fs");
 const path = require("path") ;
 
 module.exports.config = {
-  name:"ai" ;
+  name:"ai",
   description: "Interact with ChatGPT-4o",
   async run ({ api, event, send, args }){
     const prompt = args.join(" ");
