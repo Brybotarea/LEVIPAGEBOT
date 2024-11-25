@@ -1,8 +1,8 @@
 const axios = require("axios");
 const name = "ai" ;
 
-module.exports = {
-  name,
+module.exports.config = {
+  name:"ai" ;
   description: "Interact with ChatGPT-4o",
   async run ({ api, event, send, args }){
     const prompt = args.join(" ");
