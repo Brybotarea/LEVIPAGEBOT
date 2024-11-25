@@ -1,5 +1,5 @@
 const fs = require ("fs");
-const path = "ai" ;
+const path = require("path") ;
 
 module.exports.config = {
   name:"ai" ;
@@ -8,7 +8,7 @@ module.exports.config = {
     const prompt = args.join(" ");
     if (!prompt) return send(`Please enter your question! 
 
-Example: ${api.prefix + name} what is love?`);
+Example: ai what is love?`);
     send("Please wait... 🔎");
     try {
     const gpt = await axios.get(`https://joshweb.click/api/gpt-4o`, {
